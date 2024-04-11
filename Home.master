@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Home.master.cs" Inherits="Home" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+        <table border="1"> 
+ <tr> 
+ <td colspan="2" style="text-align: center"> 
+ <h1>Header</h1> 
+ </td> 
+ </tr> 
+ <tr> 
+ <td style="text-align: center; height: 480px; width: 250px"> 
+ <h1>Menu</h1> 
+ </td> 
+ <td style="text-align: center; height: 480px; width: 700px"> 
+ <asp:ContentPlaceHolder ID="MainContentPlaceHolder1" runat="server"> 
+ <h1>you can change Content here</h1> 
+ </asp:ContentPlaceHolder> 
+ </td> 
+ </tr> 
+ <tr> 
+ <td colspan="2" style="text-align: center"> 
+ <h1>Footer</h1> 
+ </td> 
+ </tr> 
+ </table>
+
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

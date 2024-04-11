@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/Banners/468X60_add.gif</ImageUrl>
+		<NavigateUrl>http://www.Mindcracker.com/Registration/Register.aspx</NavigateUrl>
+		<AlternateText>Advertisement</AlternateText>
+		<Impressions>100</Impressions>
+		<Keyword>Header</Keyword>
+		<Category>Script</Category>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/Banners/468X60_Consultant.gif</ImageUrl>
+		<NavigateUrl>http://www.mindcracker.com/Consultants/</NavigateUrl>
+		<AlternateText>Advertisement</AlternateText>
+		<Impressions>100</Impressions>
+		<Keyword>Header</Keyword>
+		<Category>Script</Category>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/Banners/468X60_Employer.gif</ImageUrl>
+		<NavigateUrl>http://www.Mindcracker.com/Registration/Register.aspx</NavigateUrl>
+		<AlternateText>Advertisement</AlternateText>
+		<Impressions>100</Impressions>
+		<Keyword>Header</Keyword>
+		~ 15 ~
+		<Category>Script</Category>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/Banners/468X60_Jobseeker.gif</ImageUrl>
+		<NavigateUrl>http://www.mindcracker.com/Jobs/</NavigateUrl>
+		<AlternateText>Advertisement</AlternateText>
+		<Impressions>100</Impressions>
+		<Keyword>Header</Keyword>
+		<Category>Script</Category>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/Banners/468X60_Recruiter.gif</ImageUrl>
+		<NavigateUrl>http://www.Mindcracker.com/Registration/Register.aspx</NavigateUrl>
+		<AlternateText>Advertisement</AlternateText>
+		<Impressions>100</Impressions>
+		<Keyword>Header</Keyword>
+		<Category>Script</Category>
+	</Ad>
+</Advertisements>
